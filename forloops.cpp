@@ -3,4 +3,6 @@ using namespace std;
 main(){
 	for(int i=0;i<10;i++)
 	cout<<"yahoo"<<endl;
+	cout<<"done with for loops";
+	cout<<"what more about forloops";
 }
